@@ -1,4 +1,4 @@
-#Cryptocurrency [ETH/USDT] prediction with RNN Neural Network Artificial Intelligence - Emirhan BULUT
+#Cryptocurrency [ETH/USDT] prediction with RNN Neural Network Artificial Intelligence - Emirhan BULUT#
 
 I developed Cryptocurrency [ETH/USDT] prediction with RNN Neural Network software with Artificial Intelligence. I predicted the fall on February 24, 2022 with 98.21% accuracy in the ETH/USDT pair. '0.03979729297154955' MAE Score, '0.0023235646943942415' MSE Score, 98.35% Accuracy Question software has been completed.
 

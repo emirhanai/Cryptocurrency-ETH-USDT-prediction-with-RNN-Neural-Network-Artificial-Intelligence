@@ -6,7 +6,7 @@ The ETH/USDT pair forecast for February 24, 2022 was correctly forecasted based 
 
 Software codes and information are shared with you as open source code free of charge on GitHub and My Personal Web Address.
 
-Happy learning!
+Happy Artificial Intelligence!
 
 Emirhan BULUT
 

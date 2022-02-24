@@ -4,6 +4,12 @@ I developed Cryptocurrency [ETH/USDT] prediction with RNN Neural Network softwar
 
 The ETH/USDT pair forecast for February 24, 2022 was correctly forecasted based on data from Binance.
 
+24 February Real Value > 2562 USDT
+
+24 February Prediction Value > 2600 USDT
+
+25 February Real Time Value = 2640 Value
+
 Software codes and information are shared with you as open source code free of charge on GitHub and My Personal Web Address.
 
 Happy Artificial Intelligence!

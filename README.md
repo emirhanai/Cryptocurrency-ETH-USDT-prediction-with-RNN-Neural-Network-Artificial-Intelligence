@@ -16,7 +16,7 @@ Happy Artificial Intelligence!
 
 Emirhan BULUT
 
-Senior Artificial Intelligence Engineer and Inventor
+Senior Artificial Intelligence Engineer & Inventor
 
 
 ###**The coding language used:**

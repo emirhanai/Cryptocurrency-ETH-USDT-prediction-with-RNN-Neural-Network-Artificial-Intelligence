@@ -8,7 +8,7 @@ The ETH/USDT pair forecast for February 24, 2022 was correctly forecasted based 
 
 24 February Prediction Value > 2600 USDT
 
-25 February Real Time Value = 2640 Value
+25 February Real Time Value == 2640 Value
 
 Software codes and information are shared with you as open source code free of charge on GitHub and My Personal Web Address.
 
